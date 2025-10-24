@@ -1,0 +1,2 @@
+# FiveVirtuesProtocol
+AI倫理を実装する五徳プロトコル
